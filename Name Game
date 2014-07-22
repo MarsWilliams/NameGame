@@ -1,3 +1,5 @@
+#You must sudo gem install rb-appscript first to make the singing bit work.
+
 def song 
 puts "Let's play the Name Game!"
 puts "What's your name?"
